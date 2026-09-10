@@ -1,14 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#3b283e">
   <meta name="description" content="Meet Christina Guevara, MSW, Associate Social Worker. Explore her experience in mental health, trauma, family support, and care coordination, and get in touch.">
   <title>Christina Guevara, MSW | Social Work & Mental Health</title>
-  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/styles.css">
-  <script src="/script.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -38,7 +35,7 @@
         <p class="hero-note">For the person you are. At the pace you need.</p>
       </div>
       <div class="hero-visual">
-        <div class="hero-photo"><img src="/assets/coastal-path.png" alt="A sunlit coastal path winding beneath cypress trees beside the ocean" width="1122" height="1402" fetchpriority="high"></div>
+        <div class="hero-photo"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1122' height='1402' viewBox='0 0 1122 1402'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='0' y1='0' y2='1'%3E%3Cstop offset='0%25' stop-color='%2393c5fd'/%3E%3Cstop offset='60%25' stop-color='%2367a89f'/%3E%3Cstop offset='100%25' stop-color='%23423a56'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='1122' height='1402' fill='url(%23g)'/%3E%3Cpath d='M0 1120 C 220 980, 460 980, 680 1120 C 840 1220, 980 1250, 1122 1190 L1122 1402 L0 1402 Z' fill='%232f4f4f' opacity='0.45'/%3E%3C/svg%3E" alt="A calm abstract coastal landscape in blue and green tones" width="1122" height="1402" fetchpriority="high"></div>
         <div class="image-note"><span class="image-note-rule" aria-hidden="true"></span><span>One step at a time.</span></div>
         <span class="vertical-label" aria-hidden="true">SPACE TO BEGIN AGAIN</span>
       </div>
@@ -82,5 +79,5 @@
   </main>
 
   <footer class="site-footer"><div class="container"><div class="footer-main"><a class="brand footer-brand" href="#home"><span class="monogram" aria-hidden="true">cg<span>.</span></span><span class="brand-words"><span class="brand-name">Christina Guevara, MSW</span><span class="brand-role">ASSOCIATE SOCIAL WORKER · 125693</span></span></a><span class="footer-credit">Care begins with being heard.</span></div><div class="crisis-note"><p>This contact information is for general inquiries, not emergency support.</p><p>For immediate emotional support, <a href="tel:988">call</a> or <a href="sms:988">text 988</a>. <a href="https://988lifeline.org/" target="_blank" rel="noopener noreferrer">988 Suicide &amp; Crisis Lifeline <span aria-label="opens in a new tab">↗</span></a></p></div><div class="footer-bottom"><span>© 2026 Christina Guevara</span><a href="#home">Back to top ↑</a></div></div></footer>
-<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a39164892f3b9e53',t:'MTc4OTA3NDM0Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</body>
 </html>
