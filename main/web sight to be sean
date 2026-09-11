@@ -62,23 +62,23 @@
 
     <section class="approach section" id="approach" aria-labelledby="approach-heading">
       <div class="container">
-        <div class="approach-heading"><p class="eyebrow">MY THERAPEUTIC STYLE</p><h2 id="approach-heading">The whole person.<br><em>The whole picture.</em></h2><p>I believe therapy should feel like a partnership—not a place where someone tells you who you are or what you should do. We look at what is hurting, what has helped you survive, and what would make life feel more manageable.</p></div>
+        <div class="approach-heading"><p class="eyebrow">MY THERAPEUTIC STYLE</p><h2 id="approach-heading">The whole person.<br><em>The whole picture.</em></h2><p>I believe therapy should feel like a partnership not a place where someone tells you who you are or what you should do. We look at what is hurting, what has helped you survive, and what would make life feel more manageable.</p></div>
         <div class="language-label"><span>IN EVERYDAY LANGUAGE</span><p>What working together may feel like</p></div>
         <div class="approach-grid">
           <article><span class="approach-number">01 /</span><h3>You set the direction</h3><p>I listen without judgment and take time to understand your experiences, culture, relationships, and priorities. Together, we choose goals that matter to you and move at a pace that feels safe and realistic.</p></article>
           <article><span class="approach-number">02 /</span><h3>We make sense of patterns</h3><p>We notice how thoughts, emotions, past experiences, and current situations may be affecting one another. I help you name what is happening and practice tools for handling intense feelings, stress, and difficult moments.</p></article>
-          <article><span class="approach-number">03 /</span><h3>We build on what is already there</h3><p>You are more than a diagnosis or a difficult season. We identify the strengths and survival skills you already use, then build practical strategies that fit your life—not a one-size-fits-all plan.</p></article>
+          <article><span class="approach-number">03 /</span><h3>We build on what is already there</h3><p>You are more than a diagnosis or a difficult season. We identify the strengths and survival skills you already use, then build practical strategies that fit your life not a one-size-fits-all plan.</p></article>
           <article><span class="approach-number">04 /</span><h3>We consider real-life barriers</h3><p>Mental health does not exist separately from housing, family, work, healthcare, culture, or community. When helpful, we connect emotional support with resources, advocacy, and care coordination.</p></article>
         </div>
         <div class="clinical-panel" aria-labelledby="clinical-heading">
           <div class="clinical-intro"><p class="eyebrow">IN CLINICAL TERMS</p><h3 id="clinical-heading">An integrative, person-centered approach</h3><p>My clinical orientation is collaborative, culturally responsive, trauma-informed, strengths-based, and grounded in a person-in-environment perspective. Treatment is individualized according to the client’s goals, readiness, needs, and lived context.</p></div>
           <div class="modalities-list">
-            <article><h4>Person-Centered &amp; Strengths-Based</h4><p>Prioritizes the therapeutic alliance, client self-determination, existing capacities, and collaborative goal setting.</p></article>
-            <article><h4>Trauma-Informed Care &amp; Seeking Safety</h4><p>Emphasizes emotional and physical safety, choice, empowerment, stabilization, coping, and the connection between trauma and substance use.</p></article>
-            <article><h4>Cognitive &amp; Behavioral Approaches</h4><p>Draws from CBT and DBT-informed interventions to examine thought-behavior-emotion patterns and strengthen mindfulness, distress tolerance, emotional regulation, and interpersonal effectiveness.</p></article>
-            <article><h4>Acceptance &amp; Commitment Therapy</h4><p>Uses acceptance, present-moment awareness, cognitive defusion, values clarification, and committed action to increase psychological flexibility.</p></article>
+            <article><h4>Person Centered &amp; Strengths Based</h4><p>Prioritizes the therapeutic alliance, client self-determination, existing capacities, and collaborative goal setting.</p></article>
+            <article><h4>Trauma Informed Care &amp; Seeking Safety</h4><p>Emphasizes emotional and physical safety, choice, empowerment, stabilization, coping, and the connection between trauma and substance use.</p></article>
+            <article><h4>Cognitive &amp; Behavioral Approaches</h4><p>Draws from CBT and DBT informed interventions to examine thought, behavior, and emotion patterns. Strengthen mindfulness, distress tolerance, emotional regulation, and interpersonal effectiveness.</p></article>
+            <article><h4>Acceptance &amp; Commitment Therapy</h4><p>Uses acceptance, present moment awareness, cognitive defusion, values clarification, and committed action to increase psychological flexibility.</p></article>
             <article><h4>Systems &amp; Ecological Perspective</h4><p>Considers family, culture, community, institutions, and social determinants of health, integrating advocacy, case management, and interdisciplinary care coordination when appropriate.</p></article>
-            <article><h4>Harm Reduction &amp; Recovery-Oriented Care</h4><p>Meets clients where they are, supports informed choice, reduces risk, and recognizes that recovery is individualized and non-linear.</p></article>
+            <article><h4>Harm Reduction &amp; Recovery Oriented Care</h4><p>Meets clients where they are, supports informed choice, reduces risk, and recognizes that recovery is individualized and non-linear.</p></article>
           </div>
           <p class="scope-note">These descriptions explain Christina’s therapeutic style and clinical perspective. At this time, Christina offers consultation only and is projected to be licensed for private-practice psychotherapy by January 2027.</p>
         </div>
